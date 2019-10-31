@@ -11,7 +11,7 @@
             <div class="d-flex">
                 <div class="pr-5"><strong>52</strong> posts</div>
                 <div class="pr-5"><strong>358</strong> followers</div>
-                <div class="pr-5"><strong>206</strong> following</div>
+                <div class="pr-5"><strong>207</strong> following</div>
             </div>
             <div class="pt-4 font-weight-bold">Răzvan Migea</div>
             <div>
