@@ -7,7 +7,7 @@
             <img src="https://instagram.ftsr1-1.fna.fbcdn.net/vp/ff88b10e0efa630ee918b7ff54650c94/5E5725D0/t51.2885-19/s320x320/31890461_2089463091329253_6622479196906061824_n.jpg?_nc_ht=instagram.ftsr1-1.fna.fbcdn.net" class="rounded-circle" style="max-height: 150px;">
         </div>
         <div class="col-9 pt-5">
-            <div><h1>vava</h1></div>
+            <div><h1>{{ $user->username }}</h1></div>
             <div class="d-flex">
                 <div class="pr-5"><strong>52</strong> posts</div>
                 <div class="pr-5"><strong>358</strong> followers</div>
